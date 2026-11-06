@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": "2e9a9313-15a8-4c31-89dc-2a6a26e44d6c",
+      "name": "Kids Panda White & Turquoise",
+      "size": "Not provided",
+      "slug": "kids-panda-white-turquoise-47b5",
+      "price": 1200,
+      "shape": "Round",
+      "stock": 39,
+      "colors": [
+        "White & Turquoise"
+      ],
+      "images": [
+        "/products/kids-panda/studio.png",
+        "/products/kids-panda/original.jpeg"
+      ],
+      "category": "Kids' Eyewear",
+      "featured": true,
+      "imageAlt": "Kids Panda round eyeglasses with an ivory-white front, turquoise temple grips and black hinge details",
+      "material": "Not specified",
+      "compareAt": 0,
+      "createdAt": "2026-10-30T18:41:21.710Z",
+      "published": true,
+      "description": "An ivory-white children's round frame with turquoise textured temple grips and black hinge accents. The price is for the frame only; optional prescription lenses are charged separately. See the gallery for the original product photo."
+    }
+  ],
+  "categories": [
+    {
+      "id": "adfd7b89-b4d8-44d8-8292-fada4d6538f9",
+      "name": "Kids' Eyewear",
+      "enabled": true
+    }
+  ]
+}

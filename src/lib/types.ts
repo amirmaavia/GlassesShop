@@ -1,0 +1,14 @@
+export type Product = { id:string; slug:string; name:string; category:string; shape:string; material:string; price:number; compareAt:number; colors:string[]; stock:number; featured:boolean; published:boolean; description:string; size:string; createdAt:string; images?:string[]; imageAlt?:string };
+export type LensConfig = { type:string; material:string; coatings:string[]; tint:string; prescription?:{mode:string; right:{sph:string;cyl:string;axis:string;add:string};left:{sph:string;cyl:string;axis:string;add:string};pd:string;pdLeft:string;dual:boolean;fileName?:string;fileSize?:number} };
+export type LensPricing = { types:Record<string,number>; materials:Record<string,number>; coatings:Record<string,number>; disabled:{types:string[];materials:string[];coatings:string[]} };
+export type CartItem = { unitPrice?:number; id:string; product:Product; color:string; lens:LensConfig; quantity:number };
+export type Profile = { id:string; email:string; name:string; role:'customer'|'admin'; active:boolean; createdAt:string; addresses:Address[] };
+export type Address = { name:string; email:string; phone:string; street:string; city:string; postcode:string };
+export const statuses = ['Pending','Confirmed','Processing','Ready to Ship','Shipped','Delivered','Cancelled','Returned'] as const;
+export type Order = { id:string; customerId:string; address:Address; items:CartItem[]; subtotal:number; discount:number; shipping:number; tax:number; total:number; code:string; payment:string; paymentStatus:string; status:typeof statuses[number]; createdAt:string; notes:string[] };
+export type Discount = { id:string;code:string;name:string;percent:number;fixed:number;min:number;category:string;active:boolean;start:string;end:string;limit:number;perCustomer:number;used:number;freeShipping:boolean };
+export type Category = { id:string;name:string;enabled:boolean };
+export type Settings = { lensPricing?:LensPricing; announcement:string;heroTitle:string;heroText:string;shipping:number;freeShipping:number;tax:number;email:string;phone:string;returns:string;storeName:string;newsletter:string[] };
+export type Ticket = {id:string;name:string;email:string;message:string;status:string;createdAt:string};
+export type Movement = {id:string;productId:string;delta:number;note:string;createdAt:string};
+export type Database = {products:Product[];categories:Category[];orders:Order[];customers:Profile[];discounts:Discount[];settings:Settings;tickets:Ticket[];movements:Movement[];audit:{action:string;at:string;actor:string}[];credentials:{id:string;salt:string;hash:string}[]};

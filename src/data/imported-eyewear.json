@@ -1,0 +1,794 @@
+[
+  {
+    "source": 2,
+    "folder": "kids-panda-pink-turquoise",
+    "value": {
+      "name": "Kids Panda Pink & Turquoise",
+      "category": "Kids' Eyewear",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 1200,
+      "compareAt": 0,
+      "colors": [
+        "Pink & Turquoise"
+      ],
+      "stock": 0,
+      "featured": true,
+      "published": true,
+      "description": "Pink & Turquoise round eyeglass frame with clear lenses. A colourful children's frame with contrasting temple details. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/kids-panda-pink-turquoise/studio.png"
+      ],
+      "imageAlt": "Kids Panda Pink & Turquoise: pink & turquoise round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 3,
+    "folder": "kids-panda-sky-blue",
+    "value": {
+      "name": "Kids Panda Sky Blue",
+      "category": "Kids' Eyewear",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 1200,
+      "compareAt": 0,
+      "colors": [
+        "Sky Blue"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Sky Blue round eyeglass frame with clear lenses. A colourful children's frame with contrasting temple details. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/kids-panda-sky-blue/studio.png"
+      ],
+      "imageAlt": "Kids Panda Sky Blue: sky blue round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 4,
+    "folder": "kids-panda-white-red",
+    "value": {
+      "name": "Kids Panda White & Red",
+      "category": "Kids' Eyewear",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 1200,
+      "compareAt": 0,
+      "colors": [
+        "White & Red"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "White & Red round eyeglass frame with clear lenses. A colourful children's frame with contrasting temple details. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/kids-panda-white-red/studio.png"
+      ],
+      "imageAlt": "Kids Panda White & Red: white & red round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 5,
+    "folder": "kids-honey-tortoise-round",
+    "value": {
+      "name": "Kids Honey Tortoise Round",
+      "category": "Kids' Eyewear",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 1200,
+      "compareAt": 0,
+      "colors": [
+        "Tortoise & Yellow"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Tortoise & Yellow round eyeglass frame with clear lenses. A colourful children's frame with contrasting temple details. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/kids-honey-tortoise-round/studio.png"
+      ],
+      "imageAlt": "Kids Honey Tortoise Round: tortoise & yellow round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 9,
+    "folder": "kids-panda-purple-turquoise",
+    "value": {
+      "name": "Kids Panda Purple & Turquoise",
+      "category": "Kids' Eyewear",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 1200,
+      "compareAt": 0,
+      "colors": [
+        "Purple & Turquoise"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Purple & Turquoise round eyeglass frame with clear lenses. A colourful children's frame with contrasting temple details. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/kids-panda-purple-turquoise/studio.png"
+      ],
+      "imageAlt": "Kids Panda Purple & Turquoise: purple & turquoise round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 10,
+    "folder": "kids-honey-tortoise-square",
+    "value": {
+      "name": "Kids Honey Tortoise Square",
+      "category": "Kids' Eyewear",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 1200,
+      "compareAt": 0,
+      "colors": [
+        "Tortoise & Yellow"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Tortoise & Yellow square eyeglass frame with clear lenses. A colourful children's frame with contrasting temple details. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/kids-honey-tortoise-square/studio.png"
+      ],
+      "imageAlt": "Kids Honey Tortoise Square: tortoise & yellow square eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 11,
+    "folder": "olive-fade-square",
+    "value": {
+      "name": "Olive Fade Square",
+      "category": "Eyeglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Olive & Clear"
+      ],
+      "stock": 0,
+      "featured": true,
+      "published": true,
+      "description": "Olive & Clear square eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/olive-fade-square/studio.png"
+      ],
+      "imageAlt": "Olive Fade Square: olive & clear square eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 12,
+    "folder": "champagne-round",
+    "value": {
+      "name": "Champagne Round",
+      "category": "Eyeglasses",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Champagne & Brown"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Champagne & Brown round eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/champagne-round/studio.png"
+      ],
+      "imageAlt": "Champagne Round: champagne & brown round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 13,
+    "folder": "crystal-blue-round",
+    "value": {
+      "name": "Crystal Blue Round",
+      "category": "Eyeglasses",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Crystal & Blue"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Crystal & Blue round eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/crystal-blue-round/studio.png"
+      ],
+      "imageAlt": "Crystal Blue Round: crystal & blue round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 14,
+    "folder": "navy-square",
+    "value": {
+      "name": "Navy Square",
+      "category": "Eyeglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Navy"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Navy square eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/navy-square/studio.png"
+      ],
+      "imageAlt": "Navy Square: navy square eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 15,
+    "folder": "cherry-red-round",
+    "value": {
+      "name": "Cherry Red Round",
+      "category": "Eyeglasses",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Red"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Red round eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/cherry-red-round/studio.png"
+      ],
+      "imageAlt": "Cherry Red Round: red round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 16,
+    "folder": "lilac-crystal-round",
+    "value": {
+      "name": "Lilac Crystal Round",
+      "category": "Eyeglasses",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Lilac & Clear"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Lilac & Clear round eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/lilac-crystal-round/studio.png"
+      ],
+      "imageAlt": "Lilac Crystal Round: lilac & clear round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 17,
+    "folder": "royal-blue-square",
+    "value": {
+      "name": "Royal Blue Square",
+      "category": "Eyeglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Royal Blue"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Royal Blue square eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/royal-blue-square/studio.png"
+      ],
+      "imageAlt": "Royal Blue Square: royal blue square eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 18,
+    "folder": "ice-blue-square-sunglasses",
+    "value": {
+      "name": "Ice Blue Square Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Ice Blue"
+      ],
+      "stock": 0,
+      "featured": true,
+      "published": true,
+      "description": "Ice Blue square sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/ice-blue-square-sunglasses/studio.png"
+      ],
+      "imageAlt": "Ice Blue Square Sunglasses: ice blue square sunglasses on a plain background"
+    }
+  },
+  {
+    "source": 19,
+    "folder": "black-square-sunglasses",
+    "value": {
+      "name": "Black Square Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Black"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Black square sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/black-square-sunglasses/studio.png"
+      ],
+      "imageAlt": "Black Square Sunglasses: black square sunglasses on a plain background"
+    }
+  },
+  {
+    "source": 20,
+    "folder": "black-browline-gradient-sunglasses",
+    "value": {
+      "name": "Black Browline Gradient Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Aviator",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Black & Silver"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Black & Silver aviator sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/black-browline-gradient-sunglasses/studio.png"
+      ],
+      "imageAlt": "Black Browline Gradient Sunglasses: black & silver aviator sunglasses on a plain background"
+    }
+  },
+  {
+    "source": 21,
+    "folder": "cobalt-square",
+    "value": {
+      "name": "Cobalt Square",
+      "category": "Eyeglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Cobalt Blue"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Cobalt Blue square eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/cobalt-square/studio.png"
+      ],
+      "imageAlt": "Cobalt Square: cobalt blue square eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 22,
+    "folder": "black-round-red-temples",
+    "value": {
+      "name": "Black Round Red Temples",
+      "category": "Eyeglasses",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Black & Red"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Black & Red round eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/black-round-red-temples/studio.png"
+      ],
+      "imageAlt": "Black Round Red Temples: black & red round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 23,
+    "folder": "black-gold-rectangle-sunglasses",
+    "value": {
+      "name": "Black Gold Rectangle Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Rectangle",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Black & Gold"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Black & Gold rectangular sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/black-gold-rectangle-sunglasses/studio.png"
+      ],
+      "imageAlt": "Black and gold rectangular sunglasses on a plain background"
+    }
+  },
+  {
+    "source": 24,
+    "folder": "black-rectangle-sunglasses",
+    "value": {
+      "name": "Black Rectangle Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Rectangle",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Black"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Black rectangle sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/black-rectangle-sunglasses/studio.png"
+      ],
+      "imageAlt": "Black Rectangle Sunglasses: black rectangle sunglasses on a plain background"
+    }
+  },
+  {
+    "source": 25,
+    "folder": "crystal-black-gradient-sunglasses",
+    "value": {
+      "name": "Crystal Black Gradient Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Crystal & Black"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Crystal and black square sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/crystal-black-gradient-sunglasses/studio.png"
+      ],
+      "imageAlt": "Crystal and black square sunglasses with gradient lenses on a plain background"
+    }
+  },
+  {
+    "source": 26,
+    "folder": "tortoise-green-lens-sunglasses",
+    "value": {
+      "name": "Tortoise Green Lens Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Tortoise"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Tortoise square sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/tortoise-green-lens-sunglasses/studio.png"
+      ],
+      "imageAlt": "Tortoise Green Lens Sunglasses: tortoise square sunglasses on a plain background"
+    }
+  },
+  {
+    "source": 27,
+    "folder": "tortoise-blue-lens-sunglasses",
+    "value": {
+      "name": "Tortoise Blue Lens Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Tortoise"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Tortoise round sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/tortoise-blue-lens-sunglasses/studio.png"
+      ],
+      "imageAlt": "Tortoise Blue Lens Sunglasses: tortoise round sunglasses on a plain background"
+    }
+  },
+  {
+    "source": 28,
+    "folder": "rose-gradient-gold-sunglasses",
+    "value": {
+      "name": "Rose Gradient Gold Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Gold"
+      ],
+      "stock": 0,
+      "featured": true,
+      "published": true,
+      "description": "Gold square sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/rose-gradient-gold-sunglasses/studio.png"
+      ],
+      "imageAlt": "Rose Gradient Gold Sunglasses: gold square sunglasses on a plain background"
+    }
+  },
+  {
+    "source": 29,
+    "folder": "midnight-blue-gradient-sunglasses",
+    "value": {
+      "name": "Midnight Blue Gradient Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Black & Gold"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Black & Gold square sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/midnight-blue-gradient-sunglasses/studio.png"
+      ],
+      "imageAlt": "Midnight Blue Gradient Sunglasses: black & gold square sunglasses on a plain background"
+    }
+  },
+  {
+    "source": 30,
+    "folder": "amber-navigator-sunglasses",
+    "value": {
+      "name": "Amber Navigator Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Aviator",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Gold & Brown"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Gold & Brown aviator sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/amber-navigator-sunglasses/studio.png"
+      ],
+      "imageAlt": "Amber Navigator Sunglasses: gold & brown aviator sunglasses on a plain background"
+    }
+  },
+  {
+    "source": 31,
+    "folder": "violet-rimless-sunglasses",
+    "value": {
+      "name": "Violet Rimless Sunglasses",
+      "category": "Sunglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 3500,
+      "compareAt": 0,
+      "colors": [
+        "Silver"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Silver square sunglasses with tinted lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/violet-rimless-sunglasses/studio.png"
+      ],
+      "imageAlt": "Violet Rimless Sunglasses: silver square sunglasses on a plain background"
+    }
+  },
+  {
+    "source": 32,
+    "folder": "gold-browline",
+    "value": {
+      "name": "Gold Browline",
+      "category": "Eyeglasses",
+      "shape": "Cat-Eye",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Gold & Black"
+      ],
+      "stock": 0,
+      "featured": true,
+      "published": true,
+      "description": "Gold & Black cat-eye eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/gold-browline/studio.png"
+      ],
+      "imageAlt": "Gold Browline: gold & black cat-eye eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 33,
+    "folder": "tortoise-round",
+    "value": {
+      "name": "Tortoise Round",
+      "category": "Eyeglasses",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Tortoise"
+      ],
+      "stock": 0,
+      "featured": true,
+      "published": true,
+      "description": "Tortoise round eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/tortoise-round/studio.png"
+      ],
+      "imageAlt": "Tortoise Round: tortoise round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 34,
+    "folder": "tortoise-square",
+    "value": {
+      "name": "Tortoise Square",
+      "category": "Eyeglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Tortoise"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Tortoise square eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/tortoise-square/studio.png"
+      ],
+      "imageAlt": "Tortoise Square: tortoise square eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 35,
+    "folder": "black-slim-rectangle",
+    "value": {
+      "name": "Black Slim Rectangle",
+      "category": "Eyeglasses",
+      "shape": "Rectangle",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Black"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Black rectangle eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/black-slim-rectangle/studio.png"
+      ],
+      "imageAlt": "Black Slim Rectangle: black rectangle eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 36,
+    "folder": "crystal-round",
+    "value": {
+      "name": "Crystal Round",
+      "category": "Eyeglasses",
+      "shape": "Round",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Crystal"
+      ],
+      "stock": 0,
+      "featured": true,
+      "published": true,
+      "description": "Crystal round eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/crystal-round/studio.png"
+      ],
+      "imageAlt": "Crystal Round: crystal round eyeglasses on a plain background"
+    }
+  },
+  {
+    "source": 37,
+    "folder": "black-bold-square",
+    "value": {
+      "name": "Black Bold Square",
+      "category": "Eyeglasses",
+      "shape": "Square",
+      "material": "Not specified",
+      "price": 2500,
+      "compareAt": 0,
+      "colors": [
+        "Black"
+      ],
+      "stock": 0,
+      "featured": false,
+      "published": true,
+      "description": "Black square eyeglass frame with clear lenses. The product photo shows the frame colour and silhouette. Frame price only; optional lens upgrades cost extra. Price is provisional; contact the store to confirm. Exact material and frame measurements are not provided.",
+      "size": "Not provided",
+      "images": [
+        "/products/black-bold-square/studio.png"
+      ],
+      "imageAlt": "Black Bold Square: black square eyeglasses on a plain background"
+    }
+  }
+]

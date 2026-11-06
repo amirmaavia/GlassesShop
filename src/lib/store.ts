@@ -1,0 +1,9 @@
+'use client';
+import { create } from 'zustand';
+import { persist } from 'zustand/middleware';
+import type { CartItem, Product } from './types';
+type State={items:CartItem[];wishlist:string[];recent:string[];add:(item:CartItem)=>void;update:(id:string,quantity:number)=>void;remove:(id:string)=>void;clear:()=>void;toggleWish:(id:string)=>void;view:(id:string)=>void};
+export const useBag=create<State>()(persist((set)=>({items:[],wishlist:[],recent:[],add:item=>set(s=>{const match=s.items.find(i=>i.product.id===item.product.id&&i.color===item.color&&JSON.stringify(i.lens)===JSON.stringify(item.lens));return {items:match?s.items.map(i=>i.id===match.id?{...i,quantity:Math.min(i.quantity+item.quantity,item.product.stock,20)}:i):[...s.items,item]}}),update:(id,quantity)=>set(s=>({items:s.items.map(i=>i.id===id?{...i,quantity:Math.min(Math.max(quantity,1),i.product.stock,20)}:i)})),remove:id=>set(s=>({items:s.items.filter(i=>i.id!==id)})),clear:()=>set({items:[]}),toggleWish:id=>set(s=>({wishlist:s.wishlist.includes(id)?s.wishlist.filter(x=>x!==id):[...s.wishlist,id]})),view:id=>set(s=>({recent:[id,...s.recent.filter(x=>x!==id)].slice(0,6)}))}),{name:'aure-bag-v1',skipHydration:true,partialize:s=>({items:s.items,wishlist:s.wishlist,recent:s.recent})}));
+export async function api(action:string,data:Record<string,unknown>={}){const response=await fetch('/api/store',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action,...data})});const result=await response.json();if(!response.ok)throw Error(result.error||'Something went wrong. Please try again.');return result;}
+export const defaultLens={type:'Frame only',material:'Standard 1.50',coatings:[],tint:'Grey'};
+export function newItem(product:Product,color=product.colors[0]):CartItem{return {id:crypto.randomUUID(),product,color,lens:defaultLens,quantity:1}}

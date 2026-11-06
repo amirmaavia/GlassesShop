@@ -1,0 +1,6 @@
+Product: Kids Panda White & Turquoise
+Source: user-supplied WhatsApp photo, copied as original.jpeg.
+Final: studio.png, created with the built-in image_gen tool (edit mode).
+
+Prompt:
+Edit target: the attached reference photograph of children's eyeglasses. Create one premium e-commerce studio product photograph using exactly these glasses, preserving the ivory-white rounded/panto front, keyhole-like curved bridge, turquoise blue ridged rubber temple grips, small black-and-turquoise hinge details, transparent clear lenses and existing angled three-quarter orientation. Remove the shop/window background and dirty reflections; place the glasses on a seamless warm off-white studio surface with a soft natural contact shadow. Whole glasses fully visible, centred with generous breathing room, square 1:1 composition, crisp true-to-product details, soft diffused lighting. No added branding, no added text, no accessories, no invented colour variants or altered design. Keep proportions and visible construction faithful to reference. This is a catalogue background/lighting cleanup, not a redesign.
